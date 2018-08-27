@@ -1,5 +1,6 @@
 # v4l2
 Fixed bugs in the Python V4L2 bindings so it can be used with Python 3
+The original authors can be found in the AUTHORS file
 
 # Original README:
 
